@@ -28,7 +28,7 @@ PS：吐槽之前公司角色不分RD、QA、OP，甚至PM都会兼任，很多�
  >简易流量统计、控制监控，提供接口供业务系统监测。
  
  ## 整体架构
- [!图片](https://nativecat.club/file/openresty-manager/image/framework.png)
+ ![图片](https://nativecat.club/file/openresty-manager/image/framework.png)
  
  ## 工作计划
  - 第一阶段搞定开源需要用到的lua组件代码
